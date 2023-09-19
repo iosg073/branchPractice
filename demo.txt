@@ -1,2 +1,4 @@
 abc
 changes made from remote repo
+abc
+xyz
