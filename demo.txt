@@ -1,4 +1,8 @@
 abc
 changes made from remote repo
+<<<<<<< HEAD
 abc
 xyz
+=======
+changes for git pull command
+>>>>>>> 56763bb52d05dede1565737cf4901e31e3e485fa
